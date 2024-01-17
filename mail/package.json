@@ -1,0 +1,15 @@
+{
+  "name": "mail",
+  "version": "1.0.0",
+  "description": "NodeJS Multiple Email Send with HTML Themplate ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kadir BABAOĞLU",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^6.9.8",
+    "nodemailer-smtp-transport": "^2.7.4"
+  }
+}
